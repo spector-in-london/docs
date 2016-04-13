@@ -12,3 +12,5 @@ However, Git as a protocol is something you learn to do, like operating Microsof
 The good news is there are plenty of resources to help you get up to speed.
 
 To get to the Wiki home page, click on the Wiki icon to the right of this text. Just hover over the icons to the right until you find the Wiki icon and click on it.
+
+<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
