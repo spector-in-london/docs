@@ -1,4 +1,4 @@
-# Milagro Content README
+# Apache Milagro (incubating) Documentation Repo README
 
 To get going, please read the Wiki attached to this repository.
 
